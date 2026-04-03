@@ -101,13 +101,9 @@ Each row includes:
 - Policy reason
 
 # 8. Future Enhancements
-
-• Add filters (Allowed / Blocked / Action Type)  
-• Add charts (pie, bar, timeline)  
-• Add export to CSV  
-• Add auto‑refresh  
-• Add role‑based policy rules  
-• Integrate a real LLM agent instead of a simulator  
+ 
+• Adding rolebased policy rules  
+• Integrating a real LLM agent instead of a simulator  
 
 # Output
 <img width="2046" height="1213" alt="image" src="https://github.com/user-attachments/assets/8eb56196-abe8-4fdd-a19d-ed3e7a538ae8" />
