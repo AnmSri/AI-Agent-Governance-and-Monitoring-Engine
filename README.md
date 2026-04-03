@@ -21,7 +21,7 @@ resources. This project demonstrates how to enforce safety by:
 • Logging the result  
 • Displaying everything in a real‑time dashboard  
 
-It provides a transparent, auditable view of agent behavior — similar to how
+It provides a transparent, auditable view of agent behavior, similar to how
 enterprise AI governance systems work.
 
 ----------------------------------------
