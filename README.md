@@ -55,10 +55,7 @@ The project consists of three components:
 • SQLite logging for auditability  
 • Clean Streamlit dashboard with:
   - Metrics
-  - Color‑coded badges
-  - Table with borders and formatting  
-• Fully enforced light mode for consistent UI  
-• Hidden Streamlit chrome (header, menu, footer)
+  - Colour coded badges
 
 ----------------------------------------
 4. How to Run the Project
