@@ -9,9 +9,7 @@ run_command, etc.) and evaluates each action against a custom policy engine.
 All decisions are logged and visualized in a clean, modern dashboard.
 
 ----------------------------------------
-1. Project Overview
-----------------------------------------
-
+### 1. Project Overview
 Modern AI agents can take actions that interact with files, systems, or external
 resources. This project demonstrates how to enforce safety by:
 
@@ -26,7 +24,7 @@ enterprise AI governance systems work.
 
 ----------------------------------------
 2. System Architecture
-----------------------------------------
+
 
 The project consists of three components:
 
