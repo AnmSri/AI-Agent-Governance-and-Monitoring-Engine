@@ -108,3 +108,8 @@ Each row includes:
 • Add auto‑refresh  
 • Add role‑based policy rules  
 • Integrate a real LLM agent instead of a simulator  
+
+# Output
+<img width="2046" height="1213" alt="image" src="https://github.com/user-attachments/assets/8eb56196-abe8-4fdd-a19d-ed3e7a538ae8" />
+<img width="2047" height="1221" alt="Screenshot 2025-07-18 192403" src="https://github.com/user-attachments/assets/b4785e32-1428-41e3-8317-02d8f93e328e" />
+
