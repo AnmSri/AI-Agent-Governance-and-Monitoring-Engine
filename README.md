@@ -23,7 +23,6 @@ enterprise AI governance systems work.
 
 # 2. System Architecture
 
-
 The project consists of three components:
 
 1. FastAPI Backend (policy engine + logging)
@@ -42,9 +41,7 @@ The project consists of three components:
    - Shows a detailed table of all logged actions
    - Uses color‑coded badges for clarity
 
-----------------------------------------
-3. Features
-----------------------------------------
+# 3. Features
 
 • Real‑time monitoring of agent behavior  
 • Policy‑based allow/block decisions  
@@ -53,9 +50,7 @@ The project consists of three components:
   - Metrics
   - Colour coded badges
 
-----------------------------------------
-4. How to Run the Project
-----------------------------------------
+# 4. How to Run the Project
 
 Step 1 — Install dependencies:
     pip install fastapi uvicorn streamlit pandas sqlite3
@@ -69,9 +64,7 @@ Step 3 — Run the simulated agent:
 Step 4 — Launch the dashboard:
     streamlit run dashboard.py
 
-----------------------------------------
-5. Policy Engine Logic
-----------------------------------------
+# 5. Policy Engine Logic
 
 The backend enforces simple safety rules such as:
 
@@ -81,9 +74,7 @@ The backend enforces simple safety rules such as:
 
 Each decision includes a human‑readable reason.
 
-----------------------------------------
-6. Database Schema
-----------------------------------------
+# 6. Database Schema
 
 SQLite table: agent_actions
 
@@ -94,9 +85,7 @@ Columns:
 - allowed (integer: 1 = allowed, 0 = blocked)
 - reason (text)
 
-----------------------------------------
-7. Dashboard Preview
-----------------------------------------
+# 7. Dashboard Preview
 
 The dashboard displays:
 
@@ -111,9 +100,7 @@ Each row includes:
 - Decision badge (Allowed / Blocked)
 - Policy reason
 
-----------------------------------------
-8. Future Enhancements
-----------------------------------------
+# 8. Future Enhancements
 
 • Add filters (Allowed / Blocked / Action Type)  
 • Add charts (pie, bar, timeline)  
@@ -121,9 +108,3 @@ Each row includes:
 • Add auto‑refresh  
 • Add role‑based policy rules  
 • Integrate a real LLM agent instead of a simulator  
-
-----------------------------------------
-9. Author
-----------------------------------------
-
-Anmol Srivastava 
